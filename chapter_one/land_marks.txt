@@ -1,0 +1,37 @@
+Thumb:
+Landmark 1: Thumb base
+Landmark 2: Lower thumb joint
+Landmark 3: Upper thumb joint
+Landmark 4: Thumb tip
+
+
+
+Index Finger:
+Landmark 5: Base of the index finger
+Landmark 6: Lower index finger joint
+Landmark 7: Middle index finger joint
+Landmark 8: Index finger tip
+
+
+
+Middle Finger:
+Landmark 9: Base of the middle finger
+Landmark 10: Lower middle finger joint
+Landmark 11: Middle middle finger joint
+Landmark 12: Middle finger tip
+
+
+
+Ring Finger:
+Landmark 13: Base of the ring finger
+Landmark 14: Lower ring finger joint
+Landmark 15: Middle ring finger joint
+Landmark 16: Ring finger tip
+
+
+
+Pinky Finger:
+Landmark 17: Base of the pinky finger
+Landmark 18: Lower pinky finger joint
+Landmark 19: Middle pinky finger joint
+Landmark 20: Pinky finger tip
